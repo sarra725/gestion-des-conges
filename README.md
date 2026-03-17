@@ -90,7 +90,7 @@ L'accès à l'application est sécurisé par un système d'authentification bas�
 
 ### Ajout d'un utilisateur (Admin)
 
-![Ajout utilisateur](Z-images/03_ajout_utilisateur.png)
+![Ajout utilisateur](Z-images/02_liste_employes.png)
 
 *Formulaire d'ajout d'un nouvel utilisateur avec définition du rôle (Admin ou User).*
 
